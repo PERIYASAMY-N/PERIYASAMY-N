@@ -235,25 +235,7 @@ Dynamic portfolio system designed for managing profile content and projects.
 
 ---
 
-# 🧠 Problem Solving
 
-<div align="center">
-
-<a href="https://leetcode.com/u/periyasamyn">
-
-<img src="https://leetcard.jacoblin.cool/periyasamyn?theme=dark&font=Baloo%202&ext=activity" width="520" alt="Periyasamy LeetCode statistics"/>
-
-</a>
-
-<br><br>
-
-<code>Java</code>
-<code>DSA</code>
-<code>LeetCode</code>
-
-</div>
-
----
 
 # 🎓 Education & Experience
 
